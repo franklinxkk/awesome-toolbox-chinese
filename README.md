@@ -349,6 +349,7 @@ https://www.lddgo.net/
 欢迎交流，投稿，订阅。
 
 ## License
+- [AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side SDD framework: PRDs, IA skeletons, FRR records, AC-YAML, coding-agent delivery. v4.9.2
 
 Copyright (c) 2022 [Pipecraft](https://www.pipecraft.net). Licensed under the [CC0-1.0 License](https://github.com/bestxtools/awesome-toolbox-chinese/blob/main/LICENSE).
 
